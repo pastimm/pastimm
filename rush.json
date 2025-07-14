@@ -434,11 +434,10 @@
     //   "tags": [ "frontend-team" ]
     // },
     // 
-    // {
-    //   "packageName": "my-toolchain",
-    //   "projectFolder": "tools/my-toolchain",
-    //   "reviewCategory": "tools",
-    //   "tags": [ "tools" ]
-    // }
+    {
+      "packageName": "leetcode",
+      "projectFolder": "packages/leetcode",
+      "tags": [ "leetcode" ]
+    }
   ]
 }
